@@ -8,7 +8,6 @@ This repository contains 2D toy experiments comparing Flow Matching and Equilibr
 - `flow_matching_2d.ipynb` — Flow Matching on 8 Gaussians, Two Moons, and Checkerboard, including an ODE solver comparison (Euler, Midpoint, RK4).
 - `eqm_2d.ipynb` — Equilibrium Matching on the same datasets, comparing decay schedules and descent methods.
 
-The LLIE application code is in a [separate repository](https://github.com/misha7b/LLIE-EqM).
 
 ## Requirements
 
